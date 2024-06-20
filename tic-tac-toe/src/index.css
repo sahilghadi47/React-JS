@@ -1,0 +1,4 @@
+/* add tailwind boiler plate */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
