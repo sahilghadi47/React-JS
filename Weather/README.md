@@ -1,16 +1,16 @@
 # Weather Application
 
-A weather application built using React, Vite, and TailwindCSS.
-
+A weather application built using React, Vite, and TailwindCSS.Deployed  on vercel
+## [Link to Application ](https://react-js-mudo.vercel.app/)
 ## Table of Contents
 
-[Summary](#summary)
-[Installation](#installation)
-[Usage](#usage)
-[Project Structure](#project-structure)
-[Dependencies](#dependencies)
-[Technologies Used](#technologies-used)
-[Development](#development)
+- [Summary](#summary)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Dependencies](#dependencies)
+- [Technologies Used](#technologies-used)
+- [Development](#development)
 
 ## Summary
 
