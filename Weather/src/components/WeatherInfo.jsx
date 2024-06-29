@@ -5,28 +5,28 @@ export default function WeatherInfo({
 }) {
     const items = [
         {
-            imgPath: "src/assets/images/sunrise.png",
+            imgPath: "/assets/images/sunrise.png",
             wItem: weather.sunrise,
             imgAlt: "sunrise",
             name: "Sunrise",
             icon: "AM"
         },
         {
-            imgPath: "src/assets/images/sunset.png",
+            imgPath: "/assets/images/sunset.png",
             wItem: weather.sunset,
             imgAlt: "sunset",
             name: "Sunset",
             icon: "PM"
         },
         {
-            imgPath: "src/assets/images/humidity.png",
+            imgPath: "/assets/images/humidity.png",
             wItem: weather.sunset,
             imgAlt: "humidity",
             name: "Humidity",
             icon: "%"
         }, {
 
-            imgPath: "src/assets/images/windspeed.png",
+            imgPath: "/assets/images/windspeed.png",
             wItem: weather.windSpeed,
             imgAlt: "wind speed",
             name: "Wind Speed",

@@ -10,43 +10,43 @@ export default function DisplayBoard(
     const weatherConditions = [
         {
             condition: "Thunderstorm",
-            path: "src/assets/images/thunderstorm.png"
+            path: "public/assets/images/thunderstrom.png"
         },
         {
             condition: "Drizzle",
-            path: "src/assets/images/drizzle.png"
+            path: "public/assets/images/drizzle.png"
         },
         {
             condition: "Rain",
-            path: "src/assets/images/rain.png"
+            path: "/assets/images/rain.png"
         },
         {
             condition: "Snow",
-            path: "src/assets/images/snow.png"
+            path: "/assets/images/snow.png"
         },
         {
             condition: "Clear",
-            path: "src/assets/images/clear.png"
+            path: "/assets/images/clear.png"
         },
         {
             condition: "Clouds",
-            path: "src/assets/images/clouds.png"
+            path: "/assets/images/clouds.png"
         },
         {
             condition: "Mist",
-            path: "src/assets/images/mist.png"
+            path: "/assets/images/mist.png"
         },
         {
             condition: "Smoke",
-            path: "src/assets/images/smoke.png"
+            path: "/assets/images/smoke.png"
         },
         {
             condition: "Haze",
-            path: "src/assets/images/haze.png"
+            path: "/assets/images/haze.png"
         },
         {
             condition: "Dust",
-            path: "src/assets/images/dust.png"
+            path: "/assets/images/dust.png"
         },
 
     ]
