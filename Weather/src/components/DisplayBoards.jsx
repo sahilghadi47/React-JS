@@ -10,11 +10,11 @@ export default function DisplayBoard(
     const weatherConditions = [
         {
             condition: "Thunderstorm",
-            path: "public/assets/images/thunderstrom.png"
+            path: "/assets/images/thunderstrom.png"
         },
         {
             condition: "Drizzle",
-            path: "public/assets/images/drizzle.png"
+            path: "/assets/images/drizzle.png"
         },
         {
             condition: "Rain",
